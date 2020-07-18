@@ -8,9 +8,6 @@
   <a href="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github">
     <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen">
   </a>
-   <a href="https://img.shields.io/github/license/RianTavares/pokedex?color=blue">
-    <img alt="Githubs License" src="https://img.shields.io/github/license/RianTavares/speakuptech?color=blue">
-  </a>
 </div>
 
 
@@ -18,7 +15,7 @@
 
 Esse projeto é parte de uma série desenvolvida para o canal do youtube [SpeakUpTech](https://youtube.com/c/SpeakUpTech). Nesta série desenvolvemos um contador de inscritos para o canal. E aqui você encontra o Front-End dessa aplicação.
 
-<p align="center"><img src="./src/assets/imgs/exemplo-tela.png"></p>
+<p align="center"><img src="./imgs/exemplo-tela.png"></p>
 
 Se quiser entender um pouco mais sobre o que é esse projeto, da uma acessada no canal que você irá encontrar vídeo que não só explicam o projeto como documentam todo o processo criativo.
 
