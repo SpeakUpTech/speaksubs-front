@@ -1,4 +1,4 @@
-## Contador de Inscritos - Parte 1
+## Contador de Inscritos - Parte 2
 
 As dicas deste Tutorial ReactJS estão separadas em uma série, onde o objetivo final é criar uma página com uma espécie de contador de inscritos e uma barra de progresso que sinaliza a porcentagem de inscritos em relação a meta do canal que atualmente é de 1000 inscritos.
 
